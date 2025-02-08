@@ -1,7 +1,7 @@
 ### Developer by night & day 
 
-<img src="https://img.shields.io/badge/TypeScript-4285F4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=24292F&color=4285F4&borderRadius=10" height="32"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=24292F&color=61DAFB&borderRadius=10" height="32"/>  
+[![TypeScript](https://img.shields.io/badge/TypeScript-4285F4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=24292F&color=4285F4&borderRadius=10)](https://www.typescriptlang.org/) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=24292F&color=61DAFB&borderRadius=10)](https://reactjs.org/)
 
 
 ```js 
