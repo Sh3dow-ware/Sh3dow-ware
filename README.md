@@ -13,6 +13,6 @@ const code = caffeine ?? debug();
 
 ![Sh3dow-ware's Stats](https://github-readme-stats.vercel.app/api?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Sh3dow-ware's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sh3dow-ware&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sh3dow-ware%20&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 ![Sh3dow-ware's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
