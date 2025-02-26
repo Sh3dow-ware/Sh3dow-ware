@@ -13,10 +13,18 @@ const code = caffeine ?? debug();
 <details>
   <summary>GitHub Stats</summary>
 
-  ![Sh3dow-ware's Stats](https://github-readme-stats.vercel.app/api?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sh3dow-ware&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-  ![Sh3dow-ware's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
+  <p align="center">
+    <img 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800"
+    />
+    <br>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sage-nu.vercel.app?user=Sh3dow-ware&mode=weekly" alt="GitHub Streak" /></a>
+    <br>
+    <img 
+      alt="Top Language" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh3dow-ware&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800"
+    />
+  </p>
 
 </details>
